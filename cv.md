@@ -13,5 +13,5 @@ None
 ## Education:
 **RS School**
 ## Languages
-1. **Russian** - native
-2. **English** - B1
+* **Russian** - native
+* **English** - B1
