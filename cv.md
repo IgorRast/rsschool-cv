@@ -1,5 +1,5 @@
 # Igor Rastrygin
-![Photo](20200728_121132.png")
+![Photo](20200728_121132.png "icon" )
 ## Contact information:
 * Tel.: +7 965 002 29 30
 * E-mail: jyoung@yandex.ru
