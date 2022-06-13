@@ -1,1 +1,31 @@
-Любое содержимое!!
+  .header {
+    padding: 20px;  
+    color: #ffffff;
+    background-color: #778899;
+ }
+ .nav-list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+      }
+ .nav-link {
+    padding: 0 15px;
+    line-height: 20px;
+ }     
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.section {
+    width: 50%;
+}
+.footer {
+    padding: 10px 20px;
+    align-items: center;
+    color: #ffffff;
+    background-color: #778899;
+    display: flex;
+}
+.footer-item {
+    padding: 20px 20px; 
+}
